@@ -39,6 +39,8 @@ Object-oriented programming was used for writting the code.
 Permision for one time, non commercial usage of the data was given by the websites' owners.
 
 ## 4) Results
-1) Lotto yearly patterns from 1996 to 2020 (april)
 
-<img src="images/Yearly_Lotto trends_1996-2020.png" width="880" height="400">
+<img src="images/Yearly_Lotto_trends_1996-2020.png" width="880" height="400">
+
+<img src="images/Yearly_Lotto_distribution.png" width="880" height="400">
+
