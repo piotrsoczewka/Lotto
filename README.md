@@ -24,6 +24,7 @@ Lottery data was scraped from http://megalotto.pl/najwyzsze-wygrane/lotto. From 
 Data about polish cities and provinces were scrapped from https://www.polskawliczbach.pl/Miasta and https://www.polskawliczbach.pl/Wojewodztwa. Tables were opened using pandas data frame, data types were converted to desired and tables were saved in database using SQL.
 
 ![plot](https://github.com/piotrsoczewka/Lotto/blob/master/images/polish_cities_SQL.png)
+
 ![plot](https://github.com/piotrsoczewka/Lotto/blob/master/images/polish_provinces_SQL.png)
 
 
