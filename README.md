@@ -36,3 +36,8 @@ Data about polish cities and provinces were scrapped from https://www.polskawlic
 
 
 Permision for one time, non commercial usage of the data was given by the websites' owners.
+
+## 4) Results
+1) Lotto yearly patterns from 1996 to 2020 (april)
+
+<img src="Yearly_Lotto trends_1996-2020.png" width="1100" height="500">
