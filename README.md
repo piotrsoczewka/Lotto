@@ -25,6 +25,7 @@ Data about polish cities and provinces were scrapped from https://www.polskawlic
 
 ![plot](https://github.com/piotrsoczewka/Lotto/blob/master/images/lottery_polish_cities.png)
 
+
 ![plot](https://github.com/piotrsoczewka/Lotto/blob/master/images/lottery_polish_provinces.png)
 
 
