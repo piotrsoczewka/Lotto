@@ -19,14 +19,20 @@ This exploratory data analysis is realised as the final project in "Data Analyst
 
 Lottery data was scraped from http://megalotto.pl/najwyzsze-wygrane/lotto. From HTML content, data about lottery prize, location of the lottery winner and lottery date were extracted, converted to desired data types and saved in database using SQL.
 
-![](images/lottery_data_sql.png)
+***lottery_data table***
+
+<img src="images/lottery_data_sql.png" width="820" height="100">
+
 
 Data about polish cities and provinces were scrapped from https://www.polskawliczbach.pl/Miasta and https://www.polskawliczbach.pl/Wojewodztwa. Tables were opened using pandas data frame, data types were converted to desired and tables were saved in database using SQL.
 
-![](images/lottery_polish_cities.png)
+***polish_cities table***
 
+<img src="images/lottery_polish_cities.png" width="593" height="100">
 
-![](images/lottery_polish_provinces.png)
+***polish_provinces table***
+
+<img src="images/lottery_polish_provinces.png" width="719" height="100">
 
 
 Permision for one time, non commercial usage of the data was given by the websites' owners.
