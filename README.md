@@ -19,6 +19,7 @@ This exploratory data analysis is realised as the final project in "Data Analyst
 
 Lottery data was scraped from http://megalotto.pl/najwyzsze-wygrane/lotto. From HTML content, data about lottery prize, location of the lottery winner and lottery date were extracted, converted to desired data types and saved in database using SQL.
 
+![plot](https://github.com/piotrsoczewka/Lotto/blob/master/images/lottery_prize_SQL.png)
 
 
 
