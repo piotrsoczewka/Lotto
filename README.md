@@ -34,6 +34,7 @@ Data about polish cities and provinces were scrapped from https://www.polskawlic
 
 <img src="images/lottery_polish_provinces.png" width="719" height="100">
 
+Object-oriented programming was used for writting the code. 
 
 Permision for one time, non commercial usage of the data was given by the websites' owners.
 
