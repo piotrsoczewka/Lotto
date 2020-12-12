@@ -40,4 +40,4 @@ Permision for one time, non commercial usage of the data was given by the websit
 ## 4) Results
 1) Lotto yearly patterns from 1996 to 2020 (april)
 
-<img src="Yearly_Lotto trends_1996-2020.png" width="1100" height="500">
+<img src="Yearly_Lotto trends_1996-2020.png" width="660" height="300">
