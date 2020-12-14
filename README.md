@@ -62,9 +62,9 @@ p-value (p-unc in this case) is very low, showing that at least one year is sign
 
 Dunn's test restults show that the period from 2008 to 2011 is significantly different from the other years, which confirms observation from the previos charts. Interestingly, the year 2012, despite having the highest mean and quite high median, is not as different as years 2008-2011. Also, the year 1999 stands out from the other years. To check potential reasons why is that, I focus on prizes distributions for 2012 and 1999 and see how they are different from other years.
 
-<img src="images/2010-2012_focus.png" width="720" height="450">
+<img src="images/2010-2013_focus.png" width="720" height="300">
 
-<img src="images/1998-2000_focus.png" width="720" height="450">
+<img src="images/1998-2000_focus.png" width="480" height="300">
 
 
 
