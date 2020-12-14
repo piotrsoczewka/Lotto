@@ -46,7 +46,9 @@ Permision for one time, non commercial usage of the data was given by the websit
 
 <img src="images/Yearly_Lotto_distribution.png" width="760" height="380">
 
-The line plot shows how number of wins and money won during the year were changing from 1996 to april 2020. Both paramaters were rising till 2008, where there is a change in the tendency - number of wins (so number of people playing) was dropping till 2011. Supposedly this is an aftermath of the 2008 financial crisis and people were playing less. Number of wins started rising again in 2011 till 2014. Money won also started dropping in 2011, but the later increase (2010-2012) preceeds increase in number of wins - perhaps the organizors wanted to encourage people for playing and increases the prizes?. Both parameters starts slowly decrease from 2014.
+The line plot shows how number of wins and money won during the year were changing from 1996 to april 2020. Both paramaters were rising till 2008, where there is a change in the tendency - number of wins (so number of people playing) was dropping till 2011. Supposedly this is an aftermath of the 2008 financial crisis and people were playing less. Number of wins started rising again in 2011 till 2014. Money won also started dropping in 2011, but the later increase (2010-2012) preceeds increase in number of wins - perhaps the organizors wanted to encourage people for playing and increases the prizes? Both parameters starts slowly decrease from 2014 which I suppose shows that people seem less interested in lottery.
 
 The latter boxplot shows distribution of money prizes. In the period 2007-2013 median and mean are higher than in other years - less people playing so higher prizes. After 2013 median remains low, on comparable level as before 2007, however is much higher that before 2007. It measn, that most of the prizes are rather low, however apparently there are higher rollovers.
+
+To check if there are any years are significanly different
 
