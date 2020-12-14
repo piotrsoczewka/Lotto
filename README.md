@@ -54,6 +54,6 @@ The latter boxplot shows distribution of money prizes. In the period 2007-2013 m
 
 To confirm that observed changes are not a result of coincidence and there are years that are significantly different thatn the others, I perform Kruskal test. This test was choose as suitable for multiple comparison of data that do not follow normal distribution.
 
-<img src="images/kruskal.tif" width="219" height="50">
+<img src="images/kruskal.png" width="219" height="50">
 
 
