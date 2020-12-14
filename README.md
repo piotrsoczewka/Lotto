@@ -52,8 +52,18 @@ The line plot shows how number of wins and money won during the year were changi
 
 The latter boxplot shows distribution of money prizes. In the period 2007-2013 median and mean are higher than in other years - less people playing so higher prizes. After 2013 median remains low, on comparable level as before 2007, however is much higher that before 2007. It measn, that most of the prizes are rather low, however apparently there are higher rollovers.
 
-To confirm that observed changes are not a result of coincidence and there are years that are significantly different thatn the others, I perform Kruskal test. This test was choose as suitable for multiple comparison of data that do not follow normal distribution.
+To confirm that observed changes are not a result of coincidence and there are years that are significantly different than the others, I perform Kruskal-Wallis test. This test was choose as suitable for many groups of data that do not follow normal distribution.
 
-<img src="images/kruskal.png" width="219" height="50">
+<img src="images/kruskal.png" width="438" height="100">
+
+p-value (p-unc in this case) is very low, showing that at least one year is significanlty different than the others. To check which, I perform Dunn's Multiple Comparison post-hoc test, suitable for not normally distributed data. p-values are presented on a heatmap like chart, showing p-values between each pair of years. The darker squares are, the lower p-value is. Significance level was set to 0.01.
+
+<img src="images/p-values_yearly.png" width="576" height="450">
+
+Dunn's test restults show that the period from 2008 to 2011 is significantly different from the other years, which confirms observation from the previos charts. Interestingly, the year 2012, despite having the highest mean and quite high median, is not as different as years 2008-2011. Also, the year 1999 stands out from the other years. To check potential reasons why is that, I analyse prizes distribution using swarm plot for these years.
+
+
+
+
 
 
