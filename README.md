@@ -17,14 +17,16 @@ This exploratory data analysis is realised as the final project in "Data Analyst
 
 ## 3) Data colletion
 
-Lottery data was scraped from http://megalotto.pl/najwyzsze-wygrane/lotto. From HTML content, data about lottery prize, location of the lottery winner and lottery date were extracted, converted to desired data types and saved in database using SQL.
+For data storage, a 'lotto' database was created using MySQL database management system.
+
+Lottery data was scraped from http://megalotto.pl/najwyzsze-wygrane/lotto. From HTML content, data about lottery prize, location of the lottery winner and lottery date were extracted, converted to desired data types and saved in created lottery_data table.
 
 ***lottery_data table***
 
 <img src="images/lottery_data_sql.png" width="820" height="100">
 
 
-Data about polish cities and provinces were scrapped from https://www.polskawliczbach.pl/Miasta and https://www.polskawliczbach.pl/Wojewodztwa. Tables were opened using pandas data frame, data types were converted to desired and tables were saved in database using SQL.
+Data about polish cities and provinces were scrapped from https://www.polskawliczbach.pl/Miasta and https://www.polskawliczbach.pl/Wojewodztwa. Tables were opened using pandas data frame, data types were converted to desired and tables were directly saved in database using to_sql() function.
 
 ***polish_cities table***
 
@@ -50,5 +52,8 @@ The line plot shows how number of wins and money won during the year were changi
 
 The latter boxplot shows distribution of money prizes. In the period 2007-2013 median and mean are higher than in other years - less people playing so higher prizes. After 2013 median remains low, on comparable level as before 2007, however is much higher that before 2007. It measn, that most of the prizes are rather low, however apparently there are higher rollovers.
 
-To check if there are any years are significanly different
+To confirm that observed changes are not a result of coincidence and there are years that are significantly different thatn the others, I perform Kruskal test. This test was choose as suitable for multiple comparison of data that do not follow normal distribution.
+
+<img src="images/kruskal.tif" width="219" height="50">
+
 
