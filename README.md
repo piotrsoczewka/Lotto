@@ -74,5 +74,5 @@ Similar pattern is observed in 1999 - more lower prizes than in 1997 and 2000, w
 
 <img src="images/Monthly_Lotto_trends.png" width="700" height="350">
 
-<img src="Monthly_Lotto_distribution.png" width="640" height="320">
+<img src="images/Monthly_Lotto_distribution.png" width="640" height="320">
 
