@@ -76,3 +76,8 @@ Similar pattern is observed in 1999 - more lower prizes than in 1997 and 2000, w
 
 <img src="images/Monthly_Lotto_distribution.png" width="640" height="320">
 
+The lineplot shows that number of wins is the highest in Mach and December and the lowet in August. Sum of money won during months is the higest in December and the lowest in summer holiday perion (June-July). Overall, these are not big changes comparing with other months and money won is corellated with number of wins to some extent. Interestingly, in September once can observe a peak in money won despite there is no peak in nuber of wins. This shows that average wins are the highest in September. The reason behind this could be low amount of money won during summer holiday season, therefore more high rollovers may happen in September. This is also visible in the boxplot, however there difference is not huge comparing with other months. The medians of wins are at the comparable level throughout the whole year. Based on this chart, and Kruskal test results below (p-value (punc) = 0,44), one can say that none of the month stands out in terms of playing lottery.
+
+<img src="images/kruskal_month.png" width="438" height="100">
+
+
