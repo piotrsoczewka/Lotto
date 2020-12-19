@@ -44,9 +44,9 @@ Permision for one time, non commercial usage of the data was given by the websit
 
 ### Yearly patterns
 
-<img src="images/Yearly_Lotto_trends_1996-2020.png" width="800" height="400">
+<img src="images/Yearly_Lotto_trends_1996-2020.png" width="700" height="350">
 
-<img src="images/Yearly_Lotto_distribution.png" width="760" height="380">
+<img src="images/Yearly_Lotto_distribution.png" width="640" height="320">
 
 The line plot shows how number of wins and money won during the year were changing from 1996 to april 2020. Both paramaters were rising till 2008, where there is a change in the tendency - number of wins (so number of people playing) was dropping till 2011. Supposedly this is an aftermath of the 2008 financial crisis and people were playing less. Number of wins started rising again in 2011 till 2014. Money won also started dropping in 2011, but the later increase (2010-2012) preceeds increase in number of wins - perhaps the organizors wanted to encourage people for playing and increases the prizes? Both parameters starts slowly decrease from 2014 which I suppose shows that people seem less interested in lottery.
 
@@ -69,7 +69,10 @@ Dunn's test restults show that the period from 2008 to 2011 is significantly dif
 When looking for the charts, one can notice that in 2012, alike in 2013 there are more lower prizes than in 2010 and 2011. This probably the reason why 2012, despite high mean and median, does not stand out from all the years as much as years from 2008 till 2011.
 Similar pattern is observed in 1999 - more lower prizes than in 1997 and 2000, what probably makes 1999 more different in Dunn's test results
 
+### Yearly patterns
 
 
+<img src="images/Monthly_Lotto_trends_1996-2020.png" width="700" height="350">
 
+<img src="images/Monthly_Lotto_distribution.png" width="640" height="320">
 
