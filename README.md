@@ -69,7 +69,7 @@ Dunn's test restults show that the period from 2008 to 2011 is significantly dif
 When looking for the charts, one can notice that in 2012, alike in 2013 there are more lower prizes than in 2010 and 2011. This probably the reason why 2012, despite high mean and median, does not stand out from all the years as much as years from 2008 till 2011.
 Similar pattern is observed in 1999 - more lower prizes than in 1997 and 2000, what probably makes 1999 more different in Dunn's test results
 
-### Yearly patterns
+### Monthly patterns
 
 
 <img src="images/Monthly_Lotto_trends.png" width="700" height="350">
@@ -80,4 +80,20 @@ The lineplot shows that number of wins is the highest in Mach and December and t
 
 <img src="images/kruskal_month.png" width="438" height="100">
 
+### Geographical patterns
 
+Poland is divided into 16 provinces. I aim to analyse how people play lottery in polish provinces and if there are any differences between provinces. I am going to check median of wins, number of wins per 1 mln, amount of money won per citizen. To do that, I merge lottery_data, polish_cities and polish_provinces tables, and then plot mentioned statistics.
+
+<img src="images/geo_patterns.png" width="774" height="600">
+
+The chart shows that number of wins per 1 mln and amount of money won per citizen are not corelated. In Podlaskie the media is the highest but number of wins is rather low. On the other side there is Mazowieckie, where median is very low but number of wins is the highest. In Pomorskie median is relatively high and number of wins is the second-highest. Also, in Pomorskie amount of money won per citizen is the higest. This implies different playing pattern in different provinces. I analyse couple of provinces to show different patterns in prizes distribution.
+
+<img src="images/2010-2012_focus_geo.png" width="960" height="400">
+
+In Mazowieckie one observes highly skewed distribution. In this province the number of wins per 1 mln people is the highest, which means that people play the most amoung all the provinces. However, most of the prizes are low, which may imply that people in this province play regardless the amount of prize to win.
+
+Similar distribution is observed in Kujawsko-Pomorskie, which again suggest that people here play no matter what is the amount of prize. However, much less people play comparing with Mazowieckie province.
+
+Different distrubution is observed in Podlaskie. Data is not skewed like in previous provinces. People in Podlaskie do not play much (low number of wins per 1 mln people), however they do when a rollover happens and prizes are higher.
+
+An interesting situiation happens in Pomorskie. High amount of wins per 1 mln citizens shows that people play eagerly in lotto, similarly like in Mazowieckie. However, data is not as skewed, therefore there is another pattern in this province. Suggesting explanation is that there are 2 kinds of populations here: one that plays regardless rollovers, and the other that starts playing only when one can win highest prizes. This would explain very high number of wins per 1 mln citizens and the highest amount of money won per citizein in province.
