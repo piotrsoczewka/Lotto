@@ -88,7 +88,7 @@ Poland is divided into 16 provinces. I aim to analyse how people play lottery in
 
 The chart shows that number of wins per 1 mln and amount of money won per citizen are not corelated. In Podlaskie the media is the highest but number of wins is rather low. On the other side there is Mazowieckie, where median is very low but number of wins is the highest. In Pomorskie median is relatively high and number of wins is the second-highest. Also, in Pomorskie amount of money won per citizen is the higest. This implies different playing pattern in different provinces. I analyse couple of provinces to show different patterns in prizes distribution.
 
-<img src="images/2010-2012_focus_geo.png" width="720" height="300">
+<img src="images/2010-2012_focus_geo.png" width="840" height="350">
 
 In Mazowieckie one observes highly skewed distribution. In this province the number of wins per 1 mln people is the highest, which means that people play the most amoung all the provinces. However, most of the prizes are low, which may imply that people in this province play regardless the amount of prize to win.
 
