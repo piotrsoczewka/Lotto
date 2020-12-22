@@ -107,4 +107,4 @@ An interesting situiation happens in Pomorskie. High amount of wins per 1 mln ci
 
 * Geography data exploration show that there are different patterns in playing lottery - people different provinces play more or less often. Also, in some provinces people play more (or only) when there are rollovers, while in others play always, regardless amount of money to win.
 
-Outcome of this project may help develop more effective strategies in advertising the lottery - where, when and what kind of adverts people should see to encourage them more for playing
+Outcome of this project may help develop more effective strategies in advertising the lottery - where, when and what kinds of adverts people should see to encourage them more for playing
