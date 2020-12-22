@@ -6,14 +6,13 @@ In this project, I am going to analyze data (money award, date, location of the 
 
 This exploratory data analysis is realised as the final project in "Data Analyst" bootcamp organized by Reaktor PWN.
 
-## 2) Tools and techniques used in the project
+## 2) Tools used in the project
 * SQL
 * Python
 * Web scrapping (requests, BeautifulSoup)
 * Pandas
 * Seaborn
 * Statistics (significance testing, pingouin and scikit_posthocs libraries)
-
 
 ## 3) Data colletion
 
@@ -41,6 +40,8 @@ Object-oriented programming was used for writting the code.
 Permision for one time, non commercial usage of the data was given by the websites' owners.
 
 ## 4) Results
+
+Here, I desribe some of the selected results of this project, which may be interesting for the lottery organizers.
 
 ### Yearly patterns
 
@@ -97,3 +98,13 @@ Similar distribution is observed in Kujawsko-Pomorskie, which again suggest that
 Different distrubution is observed in Podlaskie. Data is not skewed like in previous provinces. People in Podlaskie do not play much (low number of wins per 1 mln people), however they do when a rollover happens and prizes are higher.
 
 An interesting situiation happens in Pomorskie. High amount of wins per 1 mln citizens shows that people play eagerly in lotto, similarly like in Mazowieckie. However, data is not as skewed, therefore there is another pattern in this province. Suggesting explanation is that there are 2 kinds of populations here: one that plays regardless rollovers, and the other that starts playing only when one can win highest prizes. This would explain very high number of wins per 1 mln citizens and the highest amount of money won per citizein in province.
+
+## 5) Conclusions and applications
+
+* Yearly patterns sugest that poor economical situation may discourage people for playing
+
+* Monthly patters reveal that people play the most during Christmas season. Differences throughout the year are not big and none of the month stands out statisticly from the others
+
+* Geography data exploration show that there are different patterns in playing lottery - people different provinces play more or less often. Also, in some provinces people play more (or only) when there are rollovers, while in others play always, regardless amount of money to win.
+
+Outcome of this project may help develop more effective strategies in advertising the lottery - where, when and what kind of adverts people should see to encourage them more for playing
