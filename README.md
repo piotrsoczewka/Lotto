@@ -22,7 +22,7 @@ Lottery data was scraped from http://megalotto.pl/najwyzsze-wygrane/lotto. From 
 
 ***lottery_data table***
 
-<img src="images/lottery_data_sql.png" width="656" height="80">
+<img src="images/lottery_data_sql.png" width="820" height="100">
 
 
 Data about polish cities and provinces were scrapped from https://www.polskawliczbach.pl/Miasta and https://www.polskawliczbach.pl/Wojewodztwa. Tables were opened using pandas data frame, data types were converted to desired and tables were directly saved in database using to_sql() function.
