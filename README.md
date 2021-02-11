@@ -6,13 +6,13 @@ In this project, I am going to analyze data (money award, date, location of the 
 
 This exploratory data analysis is realised as the final project in "Data Analyst" bootcamp organized by Reaktor PWN.
 
-## 2) Tools used in the project
+## 2) Techniques and tools used in the project
+
+* Exploratory analysis
+* Web scrapping
 * SQL
-* Python
-* Web scrapping (requests, BeautifulSoup)
-* Pandas
-* Seaborn
-* Statistics (significance testing, pingouin and scikit_posthocs libraries)
+* Python libraries: numpy, pandas, seaborn, requests, BeautifulSoup, pymysql, sqlalchemy, pingouin, scikit_posthocs 
+* Statistics: hypothesis verification with Kruskal-Wallis and Dunn's Multiple Comparison tests
 
 ## 3) Data colletion
 
