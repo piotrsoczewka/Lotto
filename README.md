@@ -55,7 +55,7 @@ To confirm that observed changes are not a result of coincidence and there are y
 
 <img src="images/kruskal.png" width="438" height="100">
 
-p-value (p-unc in this case) is very low, showing that at least one year is significantly different than the others. To check which, I perform Dunn's Multiple Comparison post-hoc test, suitable for not normally distributed data. p-values are presented on a heatmap like chart, showing p-values between each pair of years. The darker squares are, the lower p-value is. Significance level was set to 0.01.
+p-value (p-unc in this case) is very low, showing that at least one year is significantly different than the others. To check which, I perform Dunn's Multiple Comparison post-hoc test, suitable for not normally distributed data. p-values are presented on a heatmap-like chart, showing p-values between each pair of years. The darker squares are, the lower p-value is. Significance level was set to 0.01.
 
 <img src="images/p-values_yearly.png" width="576" height="450">
 
